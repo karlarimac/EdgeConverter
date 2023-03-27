@@ -1,0 +1,22 @@
+{
+    "Table Schema": "<schema name>",
+    "Tables": [
+      {
+        "Table Name": "<table name>",
+        "Table Columns": [
+          {
+            "Column Name": "<column name>",
+            "is_nullable": false,
+            "is_identity": true,
+            "Column Type": [
+              {
+                "data_type": "int",
+                "seed_value": 1,
+                "increment_value": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
